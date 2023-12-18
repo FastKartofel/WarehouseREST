@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pUVZnJFu0yp4BhGDG3yZTwHODaRGhO46nzL9VeozX+Y=",
+  "Source": "WarehouseREST",
+  "BasePath": "_content/WarehouseREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
