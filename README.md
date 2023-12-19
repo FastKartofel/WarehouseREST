@@ -19,6 +19,6 @@
 
 
 ### Prerequisites
--.NET 5.0 SDK or later
--SQL Server
--Visual Studio or JetBrains Rider
+- .NET 5.0 SDK or later
+- SQL Server
+- Visual Studio or JetBrains Rider
